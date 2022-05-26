@@ -1,0 +1,1 @@
+este archivo representa la implementacion de la bd para la issue #2
