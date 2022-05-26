@@ -1,0 +1,1 @@
+este archivo representa el modelo de datos para la issue #1
