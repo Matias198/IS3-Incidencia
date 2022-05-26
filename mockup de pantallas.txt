@@ -1,1 +1,2 @@
 este archivo representa los mockups para la issue #3
+luego de subir este archivo, cerramos la issue con el commit correspondiente
