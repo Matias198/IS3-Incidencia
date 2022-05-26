@@ -1,0 +1,2 @@
+este archivo representa el frontend para la issue #6
+luego de subir este archivo, cerramos la issue con el commit correspondiente
