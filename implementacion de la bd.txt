@@ -1,1 +1,2 @@
 este archivo representa la implementacion de la bd para la issue #2
+luego de subir este archivo, cerramos la issue con el commit correspondiente
