@@ -1,0 +1,1 @@
+este archivo representa la implementacion de las pantallas para la issue #4
