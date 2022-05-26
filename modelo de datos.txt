@@ -1,1 +1,2 @@
 este archivo representa el modelo de datos para la issue #1
+luego de subir este archivo, cerramos la issue con el commit correspondiente
